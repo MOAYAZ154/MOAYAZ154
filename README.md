@@ -1,3 +1,5 @@
+I am from India, I love watching anime and programming :)
+
 🔭 I’m currently working on [Karuizawa Kei](https://t.me/KeiKaruizawa_Robot) .
 
 
