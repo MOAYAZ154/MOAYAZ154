@@ -7,7 +7,8 @@
 
 
 Contract me here-
-[Telegram](https://t.me/OfficialAYAZ
+
+[Telegram](https://t.me/OfficialAYAZ)
 
 # Currently Working On Projects 
 <img src="https://telegra.ph/file/1c92c253220d400f58f7c.mp4" align="right" width="72"/>
