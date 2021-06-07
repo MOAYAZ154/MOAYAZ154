@@ -1,5 +1,7 @@
 🔭 I’m currently working on Open Source Projects and Discord Bots.
+
 🌱 I’m currently learning React.JS and C++.
+
 👯 I’m looking to collaborate on More Open Source Projects.
 
 Github stats
