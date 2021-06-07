@@ -1,8 +1,5 @@
-🔭 I’m currently working on Open Source Projects and Discord Bots.
+🔭 I’m currently working on Open Source Projects .
 
-🌱 I’m currently learning React.JS and C++.
-
-👯 I’m looking to collaborate on More Open Source Projects.
 
 👀Github stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=MOAYAZ154&show_icons=true&theme=midnight-purple)
