@@ -2,7 +2,7 @@
 
 • I’m currently learning Python.
 
-•Stuff I like: Anime, Manga, Music.
+•Stuff I like: Anime, Manga, Music and YouTube Videos.
 
 
 
