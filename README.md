@@ -24,7 +24,7 @@
 
 
 
-# 👀Github stats
+# **👀Github stats**
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=MOAYAZ154&show_icons=true&theme=midnight-purple)
 ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MOAYAZ154&show_icons=true&theme=radical&layout=compact)
 <!---
