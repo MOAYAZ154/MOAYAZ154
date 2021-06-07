@@ -1,15 +1,16 @@
 # Hey There, I am MO-AYAZ<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" align="right" width="72"/>
 
 
-• I’m currently learning Python.
+**• I’m currently learning Python.**
 
-• Stuff I like: Anime, Manga, Music and YouTube Videos.
+**• Stuff I like: Anime, Manga, Music and YouTube Videos.**
 
 
-**Contract me here**
 
+**Contract me here--**
 ![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/OfficialAYAZ)
 ![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:animepoint557@gmail.com)
+
 
 # Currently Working On Projects 
 <img src="https://telegra.ph/file/1c92c253220d400f58f7c.mp4" align="right" width="72"/>
