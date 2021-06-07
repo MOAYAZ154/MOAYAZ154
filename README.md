@@ -16,11 +16,11 @@
 # Currently Working On Projects 
 <img src="https://telegra.ph/file/1c92c253220d400f58f7c.mp4" align="right" width="72"/>
 
-[Karuizawa Kei](https://t.me/KeiKaruizawa_Robot) .
+[Karuizawa Kei📸](https://t.me/KeiKaruizawa_Robot) .
 
 
 
-[Music Bot](https://t.me/Vc34_bot)
+[Music Bot🎧](https://t.me/Vc34_bot)
 
 
 
