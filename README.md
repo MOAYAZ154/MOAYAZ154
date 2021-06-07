@@ -9,6 +9,7 @@
 **Contract me here**
 
 ![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/OfficialAYAZ)
+![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:animepoint557@gmail.com)
 
 # Currently Working On Projects 
 <img src="https://telegra.ph/file/1c92c253220d400f58f7c.mp4" align="right" width="72"/>
