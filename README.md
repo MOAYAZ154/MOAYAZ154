@@ -6,7 +6,7 @@
 • Stuff I like: Anime, Manga, Music and YouTube Videos.
 
 
-Contract me here-
+**Contract me here**
 
 ![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/OfficialAYAZ)
 
