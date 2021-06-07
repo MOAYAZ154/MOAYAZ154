@@ -1,5 +1,4 @@
 # Konichiwa Minna-san:)<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" align="right" width="72"/>
-  [![Profile views](https://gpvc.arturio.dev/MOAYAZ154)](https://github.com/MOAYAZ154)
 
 
 • I’m currently learning Python.
