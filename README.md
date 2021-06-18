@@ -3,7 +3,7 @@
 
 **• I’m currently learning Python.**
 
-**•  I like: Anime, Manga, Music and Programming.**
+**• Stuff I like: Anime, Manga, Music and Programming.**
 
 
 
